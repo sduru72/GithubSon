@@ -5,5 +5,6 @@ public class SonGithub {
 
         System.out.println("FENERBAHCE!");
         System.out.println("serkan");
+        System.out.println("durukan");
     }
 }
